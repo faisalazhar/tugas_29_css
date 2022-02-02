@@ -1,0 +1,38 @@
+body{
+    background-color: #DADADA;
+}
+
+.ui-container{
+    width: 400px;
+    margin: 30px auto;
+}
+
+div. picture{
+    display:flex;
+    justify-content: center;
+}
+
+div.picture h4{
+    color: #00B4AB;
+    line-height: 30px;
+    font-size: 20px;
+    display: flex;
+  }
+  img.image{
+    width: 70px;
+    margin-right: 10px;
+  }
+  div.bf{
+    margin: 30px auto;
+    width: 500px;
+    height: 500px;
+    background-color: white;
+  }
+  form.form{
+    margin: 10px;
+  }
+  button.fluid.ui.button{
+    margin-top: 10px;
+    background-color: #00B4AB;
+    color: white;
+  }
